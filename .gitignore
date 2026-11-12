@@ -1,0 +1,12 @@
+*.o
+a.out
+bankers
+diningphilo
+disk-scheduling
+ipc_writer
+ipc_reader
+pipes
+process
+threads
+mypipe
+addressbook.txt
